@@ -1,0 +1,2 @@
+<task-description id="pull_docker_images">Pulls all Docker images (all pipeline parameters named *_docker_image).</task-description>
+<task-description id="genome-cleanup_docker_images">Removes all Docker images (all pipeline parameters named *_docker_image).</task-description>

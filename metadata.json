@@ -1,0 +1,5 @@
+{
+    "name": "docker-management",
+    "description": "tasks to manage Docker images",
+    "version": "1.0.0"
+}
