@@ -1,1 +1,1 @@
-<param name="hello_world_docker_image" shortName="hello_world_docker_image" defaultValue="hello_world_docker_image" global="true">A Docker image to use.</param>
+<param name="hello_world_docker_image" shortName="hello_world_docker_image" defaultValue="hello-world:latest" global="true">The Hello world docker image.</param>
